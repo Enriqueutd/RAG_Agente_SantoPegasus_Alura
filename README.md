@@ -255,6 +255,14 @@ streamlit run app.py
 
 ---
 
+## 🚀 Demostración en vivo
+
+Puedes probar la aplicación desplegada directamente en el siguiente enlace:
+
+👉 **[Probar Asistente Técnico - Santo Pegasus Soluciones](https://rag-agente-santopegasus.streamlit.app/))**
+
+---
+
 # ☁ Despliegue
 
 La aplicación se encuentra preparada para ser desplegada en **Streamlit Community Cloud**.
