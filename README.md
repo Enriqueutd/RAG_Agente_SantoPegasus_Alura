@@ -239,19 +239,19 @@ streamlit run app.py
 
 ## Pantalla principal
 
-*(Agregar captura de la interfaz.)*
+<img width="1870" height="965" alt="Pantalla principal" src="https://github.com/user-attachments/assets/add4825a-ccad-45bc-9c44-9f5870e3e291" />
 
 ---
 
 ## Ejemplo de consulta
 
-*(Agregar captura de una consulta realizada.)*
+<img width="1847" height="907" alt="Ejemplo de consulta" src="https://github.com/user-attachments/assets/e7f529fd-19e2-46e1-a03c-718b506b332c" />
 
 ---
 
 ## Respuesta generada
 
-*(Agregar captura de la respuesta obtenida.)*
+<img width="1849" height="898" alt="Respuesta generada" src="https://github.com/user-attachments/assets/49f51cfa-5ad4-4220-836f-312749f8f511" />
 
 ---
 
